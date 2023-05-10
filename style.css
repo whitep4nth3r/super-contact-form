@@ -40,6 +40,7 @@ input {
   width: 100%;
   display: block;
   border: 2px solid rgb(1, 72, 71);
+  font-size: 1rem;
 }
 
 textarea {
@@ -48,7 +49,9 @@ textarea {
   padding: 0.5rem;
   width: 100%;
   display: block;
+  font-size: 1rem;
   border: 2px solid rgb(1, 72, 71);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu;
 }
 
 button {
